@@ -1,0 +1,1 @@
+const exemplo = {12,2,3}
